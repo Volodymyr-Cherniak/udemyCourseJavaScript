@@ -9,6 +9,6 @@ let person = {
 console.log(person['age']);
 
 //alert('Hello world');
-let ansver = prompt('Have you 18 years?')
+let ansver = prompt('Have you 18 years? ')
 
 console.log(ansver);
